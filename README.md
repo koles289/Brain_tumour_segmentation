@@ -14,10 +14,10 @@ Output of the program is the JACCARD score and visualization of segmented image.
 As we talk about metaheuristic algorithm, user can select  the most basic optimalization algorithm paraneters too..<br>
 
 Example of flowchart for 3D segmentation<br>
-<img src="https://github.com/koles289/Brain_tumour_segmentation/blob/master/3D_segmentation_flowchart.png" width="400">
+<img src="https://github.com/koles289/Brain_tumour_segmentation/blob/master/3D_segmentation_flowchart.png" width="400" class="center">
 
 
-<br>Date 25.05.2018 
+<br>Date 25.05.2018 class="center"
 
 
 
