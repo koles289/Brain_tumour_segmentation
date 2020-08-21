@@ -7,15 +7,15 @@ For more information check this paper https://dspace.vutbr.cz/xmlui/handle/11012
 
 <br>Achieved result:<br>
 
-<img src="https://github.com/koles289/Brain_tumour_segmentation/blob/master/Segmentation_output.png" width="800"> 
+<img src="https://github.com/koles289/Brain_tumour_segmentation/blob/master/Segmentation_output.png" width="700"> 
 
 <br>Manual:<br>
 The program start runnig using script <i>main.m</i>. It is required to set some variables as path to images in BRATS folder: variable <i>nac_obrazy</i>. Algorithm is able to load only images in <i>.mha</i> format. You can select the the image from BRATS folder that you want t segment, you can choose the metaheuristic algorithm (FA, SSO or hybrid FASSO) and the segmentation algorithm (2D or 3D). Default setting is to image HG0015 using 3D segmentation and FASSO algorithm.<br> 
 Output of the program is the JACCARD score and visualization of segmented image.<br> 
 As we talk about metaheuristic algorithm, user can select  the most basic optimalization algorithm paraneters too..<br>
 
-Example of flowchart for 3D segmentation
-<img src="https://github.com/koles289/Brain_tumour_segmentation/blob/master/3D_segmentation_flowchart.png" width="200">
+Example of flowchart for 3D segmentation<br>
+<img src="https://github.com/koles289/Brain_tumour_segmentation/blob/master/3D_segmentation_flowchart.png" width="400">
 
 
 
