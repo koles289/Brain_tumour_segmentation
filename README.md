@@ -1,5 +1,4 @@
 # Bacherlor thesis <br> Application Of Optimisation Methods For Mri Data Segmentation
-Date 25.05.2018 
 This thesis deals with a segmentation of brain tissues from MRI image data and its implementation in MATLAB. <br>
 Segmentation problematic is described with attention to formulating segmentation as optimization problem and segmentation of given images with different metaheuristic algorithm consequently. This approach was chosen due to information from last specialized publications, where it was accentuated for its fast computational speed and universality. This thesis tries to prove this statement with segmentation of brain images with brain tumours that have different types, number, stage of illness and phase of therapy. <br>
 
@@ -16,6 +15,9 @@ As we talk about metaheuristic algorithm, user can select  the most basic optima
 
 Example of flowchart for 3D segmentation<br>
 <img src="https://github.com/koles289/Brain_tumour_segmentation/blob/master/3D_segmentation_flowchart.png" width="400">
+
+
+<br>Date 25.05.2018 
 
 
 
